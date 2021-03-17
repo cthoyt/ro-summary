@@ -1,8 +1,8 @@
 ---
 layout: home
 ---
-Summary of the Relation Ontology. There are {{ site.data.bioregistry.summary.total }}
-total relationships as of {{ site.data.bioregistry.summary.total }}.
+Summary of the Relation Ontology. There are {{ site.data.summary.total }}
+total relationships as of {{ site.data.summary.total }}.
 
 <table>
 <thead>
