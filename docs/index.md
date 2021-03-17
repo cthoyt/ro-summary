@@ -1,8 +1,8 @@
 ---
 layout: home
 ---
-Summary of the Relation Ontology. There are {{ site.data.summary.total }}
-total relationships as of {{ site.data.summary.date }}.
+Summary of the Relation Ontology. There are {{ site.data.freq.total }}
+total relationships as of {{ site.data.freq.date }}.
 
 <table>
 <thead>
@@ -14,7 +14,7 @@ total relationships as of {{ site.data.summary.date }}.
 </tr>
 </thead>
 <tbody>
-{% for entry in site.data.summary.rows %}
+{% for entry in site.data.freq.rows %}
     <tr>
         <td><a href="https://www.wikidata.org/wiki/Property:{{ entry.wd }}">{{ entry.wd }}</a></td>
         <td>{{ entry.label }}</td>
