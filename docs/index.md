@@ -5,7 +5,7 @@ Summary of the Relation Ontology. There are {{ site.data.summary.total }}
 total relationships as of {{ site.data.summary.date }}. Download this data
 from [here](https://github.com/cthoyt/ro-summary/raw/main/summary.tsv).
 This table is created by open source code at
-<a href="https://github.com/cthoyt/ro-summary"><img src="github-ocon.svg"/> cthoyt/ro-summary</a>.
+<a href="https://github.com/cthoyt/ro-summary"><img src="github-icon.svg"/> cthoyt/ro-summary</a>.
 
 <table>
 <thead>
