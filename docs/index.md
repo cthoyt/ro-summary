@@ -2,7 +2,7 @@
 layout: home
 ---
 Summary of the Relation Ontology. There are {{ site.data.summary.total }}
-total relationships as of {{ site.data.summary.total }}.
+total relationships as of {{ site.data.summary.date }}.
 
 <table>
 <thead>
