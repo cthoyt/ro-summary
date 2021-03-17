@@ -73,7 +73,7 @@ def main():
         yaml.safe_dump(
             {
                 'total': total,
-                'date': datetime.datetime.now().isoformat(),
+                'date': datetime.datetime.now().strftime('%Y-%m-%d'),
                 'rows': [
                     dict(zip(header, row))
                     for row in rows
