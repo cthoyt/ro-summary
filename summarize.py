@@ -14,7 +14,7 @@ from tqdm import tqdm
 HERE = os.path.abspath(os.path.dirname(__file__))
 DIRECTORY = os.path.join(HERE, 'docs', '_data')
 os.makedirs(DIRECTORY, exist_ok=True)
-TSV_PATH = os.path.join(DIRECTORY, 'summary.tsv')
+TSV_PATH = os.path.join(HERE, 'summary.tsv')
 YML_PATH = os.path.join(DIRECTORY, 'summary.yml')
 
 # URL for the Wikidata SPARQL service
