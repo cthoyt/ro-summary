@@ -1,17 +1,18 @@
+date: '2021-03-17T22:09:39.299332'
 rows:
-- count: 3760312
+- count: 3760306
   label: part of
   ro: BFO_0000050
   wd: P361
-- count: 3060223
+- count: 3060217
   label: found in taxon
   ro: RO_0002162
   wd: P703
-- count: 2011461
+- count: 2011468
   label: location
   ro: RO_0001025
   wd: P276
-- count: 1686766
+- count: 1686769
   label: has part
   ro: BFO_0000051
   wd: P527
@@ -71,4 +72,4 @@ rows:
   label: develops from
   ro: RO_0002202
   wd: P3094
-total: 13167120
+total: 13167118

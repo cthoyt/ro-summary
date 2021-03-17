@@ -2,6 +2,7 @@
 
 """Generates summaries of the relation ontology."""
 
+import datetime
 import os
 from operator import itemgetter
 
@@ -72,6 +73,7 @@ def main():
         yaml.safe_dump(
             {
                 'total': total,
+                'date': datetime.datetime.now().isoformat(),
                 'rows': [
                     dict(zip(header, row))
                     for row in rows
