@@ -1,26 +1,26 @@
-date: '2021-03-17'
+date: '2021-03-18'
 rows:
-- count: 3760303
+- count: 3760375
   label: part of
   ro: BFO_0000050
   wd: P361
-- count: 3060217
+- count: 3060229
   label: found in taxon
   ro: RO_0002162
   wd: P703
-- count: 2011472
+- count: 2011488
   label: location
   ro: RO_0001025
   wd: P276
-- count: 1686771
+- count: 1686854
   label: has part
   ro: BFO_0000051
   wd: P527
-- count: 976693
+- count: 976695
   label: encoded by
   ro: RO_0002204
   wd: P702
-- count: 973658
+- count: 973662
   label: encodes
   ro: RO_0002205
   wd: P688
@@ -28,15 +28,15 @@ rows:
   label: regulates (molecular biology)
   ro: RO_0002211
   wd: P128
-- count: 318624
+- count: 318621
   label: subject has role
   ro: RO_0000087
   wd: P2868
-- count: 16559
+- count: 16557
   label: immediate cause of
   ro: RO_0002405
   wd: P1536
-- count: 13701
+- count: 13703
   label: partially coincident with
   ro: RO_0002008
   wd: P1382
@@ -72,4 +72,4 @@ rows:
   label: develops from
   ro: RO_0002202
   wd: P3094
-total: 13167119
+total: 13167305

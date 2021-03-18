@@ -1,14 +1,14 @@
 wd	label	ro	count
-P361	part of	BFO_0000050	3760303
-P703	found in taxon	RO_0002162	3060217
-P276	location	RO_0001025	2011472
-P527	has part	BFO_0000051	1686771
-P702	encoded by	RO_0002204	976693
-P688	encodes	RO_0002205	973658
+P361	part of	BFO_0000050	3760375
+P703	found in taxon	RO_0002162	3060229
+P276	location	RO_0001025	2011488
+P527	has part	BFO_0000051	1686854
+P702	encoded by	RO_0002204	976695
+P688	encodes	RO_0002205	973662
 P128	regulates (molecular biology)	RO_0002211	326530
-P2868	subject has role	RO_0000087	318624
-P1536	immediate cause of	RO_0002405	16559
-P1382	partially coincident with	RO_0002008	13701
+P2868	subject has role	RO_0000087	318621
+P1536	immediate cause of	RO_0002405	16557
+P1382	partially coincident with	RO_0002008	13703
 P828	has cause	RO_0002411	7535
 P2176	drug used for treatment	RO_0002302	6564
 P1542	has effect	RO_0002404	4565
