@@ -16,7 +16,7 @@ DIRECTORY = os.path.join(HERE, 'docs', '_data')
 os.makedirs(DIRECTORY, exist_ok=True)
 TSV_PATH = os.path.join(HERE, 'summary.tsv')
 YML_PATH = os.path.join(DIRECTORY, 'summary.yml')
-SSSOM_PATH = os.path.join(DIRECTORY, 'ro_sssom.tsv')
+SSSOM_PATH = os.path.join(HERE, 'sssom.tsv')
 
 # URL for the Wikidata SPARQL service
 URL = 'https://query.wikidata.org/bigdata/namespace/wdq/sparql'
