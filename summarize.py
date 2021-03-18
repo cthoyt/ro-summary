@@ -47,6 +47,7 @@ header = ['wd', 'wd_label', 'ro', 'ro_label', 'count']
 
 def main():
     with open(NAMES_PATH) as file:
+        _header = next(file)
         ro_id_name = dict(line.strip().split('\t') for line in file)
 
     results = get_query(Q1)
