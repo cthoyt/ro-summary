@@ -1,19 +1,21 @@
-subject_id	subject_label	predicate_id	object_id	license
-wikidata:P361	part of	owl:equivalentProperty	BFO:0000050	https://creativecommons.org/publicdomain/zero/1.0/
-wikidata:P703	found in taxon	owl:equivalentProperty	RO:0002162	https://creativecommons.org/publicdomain/zero/1.0/
-wikidata:P276	location	owl:equivalentProperty	RO:0001025	https://creativecommons.org/publicdomain/zero/1.0/
-wikidata:P527	has part	owl:equivalentProperty	BFO:0000051	https://creativecommons.org/publicdomain/zero/1.0/
-wikidata:P702	encoded by	owl:equivalentProperty	RO:0002204	https://creativecommons.org/publicdomain/zero/1.0/
-wikidata:P688	encodes	owl:equivalentProperty	RO:0002205	https://creativecommons.org/publicdomain/zero/1.0/
-wikidata:P128	regulates (molecular biology)	owl:equivalentProperty	RO:0002211	https://creativecommons.org/publicdomain/zero/1.0/
-wikidata:P2868	subject has role	owl:equivalentProperty	RO:0000087	https://creativecommons.org/publicdomain/zero/1.0/
-wikidata:P1536	immediate cause of	owl:equivalentProperty	RO:0002405	https://creativecommons.org/publicdomain/zero/1.0/
-wikidata:P1382	partially coincident with	owl:equivalentProperty	RO:0002008	https://creativecommons.org/publicdomain/zero/1.0/
-wikidata:P828	has cause	owl:equivalentProperty	RO:0002411	https://creativecommons.org/publicdomain/zero/1.0/
-wikidata:P2176	drug used for treatment	owl:equivalentProperty	RO:0002302	https://creativecommons.org/publicdomain/zero/1.0/
-wikidata:P1542	has effect	owl:equivalentProperty	RO:0002404	https://creativecommons.org/publicdomain/zero/1.0/
-wikidata:P3403	coextensive with	owl:equivalentProperty	RO:0002379	https://creativecommons.org/publicdomain/zero/1.0/
-wikidata:P2849	produced by	owl:equivalentProperty	RO:0003001	https://creativecommons.org/publicdomain/zero/1.0/
-wikidata:P3189	innervated by	owl:equivalentProperty	RO:0002005	https://creativecommons.org/publicdomain/zero/1.0/
-wikidata:P3190	innervates	owl:equivalentProperty	RO:0002134	https://creativecommons.org/publicdomain/zero/1.0/
-wikidata:P3094	develops from	owl:equivalentProperty	RO:0002202	https://creativecommons.org/publicdomain/zero/1.0/
+subject_id	subject_label	predicate_id	object_id	object_label	license
+wikidata:P361	part of	owl:equivalentProperty	BFO:0000050	part of	https://creativecommons.org/publicdomain/zero/1.0/
+wikidata:P703	found in taxon	owl:equivalentProperty	RO:0002162	in taxon	https://creativecommons.org/publicdomain/zero/1.0/
+wikidata:P276	location	owl:equivalentProperty	RO:0001025	located in	https://creativecommons.org/publicdomain/zero/1.0/
+wikidata:P527	has part	owl:equivalentProperty	BFO:0000051	has part	https://creativecommons.org/publicdomain/zero/1.0/
+wikidata:P702	encoded by	owl:equivalentProperty	RO:0002204	gene product of	https://creativecommons.org/publicdomain/zero/1.0/
+wikidata:P688	encodes	owl:equivalentProperty	RO:0002205	has gene product	https://creativecommons.org/publicdomain/zero/1.0/
+wikidata:P128	regulates (molecular biology)	owl:equivalentProperty	RO:0002211	regulates	https://creativecommons.org/publicdomain/zero/1.0/
+wikidata:P2868	subject has role	owl:equivalentProperty	RO:0000087	has role	https://creativecommons.org/publicdomain/zero/1.0/
+wikidata:P1536	immediate cause of	owl:equivalentProperty	RO:0002405	immediately causally downstream of	https://creativecommons.org/publicdomain/zero/1.0/
+wikidata:P1382	partially coincident with	owl:equivalentProperty	RO:0002008	coincident with	https://creativecommons.org/publicdomain/zero/1.0/
+wikidata:P828	has cause	owl:equivalentProperty	RO:0002411	causally upstream of	https://creativecommons.org/publicdomain/zero/1.0/
+wikidata:P2176	drug used for treatment	owl:equivalentProperty	RO:0002302	is treated by substance	https://creativecommons.org/publicdomain/zero/1.0/
+wikidata:P1542	has effect	owl:equivalentProperty	RO:0002404	causally downstream of	https://creativecommons.org/publicdomain/zero/1.0/
+wikidata:P3403	coextensive with	owl:equivalentProperty	RO:0002379	spatially coextensive with	https://creativecommons.org/publicdomain/zero/1.0/
+wikidata:P2849	produced by	owl:equivalentProperty	RO:0003001	produced by	https://creativecommons.org/publicdomain/zero/1.0/
+wikidata:P3189	innervated by	owl:equivalentProperty	RO:0002005	innervated_by	https://creativecommons.org/publicdomain/zero/1.0/
+wikidata:P3190	innervates	owl:equivalentProperty	RO:0002134	innervates	https://creativecommons.org/publicdomain/zero/1.0/
+wikidata:P3776	inhibitor of	owl:equivalentProperty	RO:0012002	has small molecule inhibitor	https://creativecommons.org/publicdomain/zero/1.0/
+wikidata:P3094	develops from	owl:equivalentProperty	RO:0002202	develops from	https://creativecommons.org/publicdomain/zero/1.0/
+wikidata:P3771	activator of	owl:equivalentProperty	RO:0012001	has small molecule activator	https://creativecommons.org/publicdomain/zero/1.0/

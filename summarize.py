@@ -17,6 +17,7 @@ os.makedirs(DIRECTORY, exist_ok=True)
 TSV_PATH = os.path.join(HERE, 'summary.tsv')
 YML_PATH = os.path.join(DIRECTORY, 'summary.yml')
 SSSOM_PATH = os.path.join(HERE, 'sssom.tsv')
+NAMES_PATH = os.path.join(HERE, 'names.tsv')
 
 # URL for the Wikidata SPARQL service
 URL = 'https://query.wikidata.org/bigdata/namespace/wdq/sparql'
@@ -41,10 +42,13 @@ def get_query(query, base: str = URL):
     return res_json['results']['bindings']
 
 
-header = ['wd', 'label', 'ro', 'count']
+header = ['wd', 'wd_label', 'ro', 'ro_label', 'count']
 
 
 def main():
+    with open(NAMES_PATH) as file:
+        ro_id_name = dict(line.strip().split('\t') for line in file)
+
     results = get_query(Q1)
 
     rows = []
@@ -58,12 +62,12 @@ def main():
         '''
         triples_count_result = get_query(q2)
         triples_count = int(triples_count_result[0]['count']['value'])
-        rows.append((wd_property, wd_property_label, ro_id, triples_count))
+        rows.append((wd_property, wd_property_label, ro_id, ro_id_name[ro_id], triples_count))
 
     # Sort descending
-    rows = sorted(rows, key=itemgetter(3), reverse=True)
+    rows = sorted(rows, key=itemgetter(4), reverse=True)
 
-    total = sum(row[3] for row in rows)
+    total = sum(row[4] for row in rows)
 
     with open(TSV_PATH, 'w') as file:
         print(*header, sep='\t', file=file)
@@ -86,16 +90,17 @@ def main():
     predicate = 'owl:equivalentProperty'
     license = 'https://creativecommons.org/publicdomain/zero/1.0/'
     headers = [
-        'subject_id', 'subject_label', 'predicate_id', 'object_id', 'license',
+        'subject_id', 'subject_label', 'predicate_id', 'object_id', 'object_label', 'license',
     ]
     with open(SSSOM_PATH, 'w') as file:
         print(*headers, sep='\t', file=file)
-        for wd_property, wd_property_label, ro_id, _triples_count in rows:
+        for wd_property, wd_property_label, ro_id, ro_label, _triples_count in rows:
             print(
                 f'wikidata:{wd_property}',
                 wd_property_label,
                 predicate,
                 ro_id.replace('_', ':'),
+                ro_label,
                 license,
                 sep='\t',
                 file=file,

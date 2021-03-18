@@ -1,75 +1,103 @@
 date: '2021-03-18'
 rows:
-- count: 3760481
-  label: part of
+- count: 3760507
   ro: BFO_0000050
+  ro_label: part of
   wd: P361
-- count: 3060223
-  label: found in taxon
+  wd_label: part of
+- count: 3060235
   ro: RO_0002162
+  ro_label: in taxon
   wd: P703
-- count: 2011969
-  label: location
+  wd_label: found in taxon
+- count: 2012446
   ro: RO_0001025
+  ro_label: located in
   wd: P276
+  wd_label: location
 - count: 1686909
-  label: has part
   ro: BFO_0000051
+  ro_label: has part
   wd: P527
+  wd_label: has part
 - count: 976697
-  label: encoded by
   ro: RO_0002204
+  ro_label: gene product of
   wd: P702
+  wd_label: encoded by
 - count: 973664
-  label: encodes
   ro: RO_0002205
+  ro_label: has gene product
   wd: P688
+  wd_label: encodes
 - count: 326530
-  label: regulates (molecular biology)
   ro: RO_0002211
+  ro_label: regulates
   wd: P128
+  wd_label: regulates (molecular biology)
 - count: 318628
-  label: subject has role
   ro: RO_0000087
+  ro_label: has role
   wd: P2868
+  wd_label: subject has role
 - count: 16559
-  label: immediate cause of
   ro: RO_0002405
+  ro_label: immediately causally downstream of
   wd: P1536
+  wd_label: immediate cause of
 - count: 13703
-  label: partially coincident with
   ro: RO_0002008
+  ro_label: coincident with
   wd: P1382
-- count: 7535
-  label: has cause
+  wd_label: partially coincident with
+- count: 7536
   ro: RO_0002411
+  ro_label: causally upstream of
   wd: P828
+  wd_label: has cause
 - count: 6566
-  label: drug used for treatment
   ro: RO_0002302
+  ro_label: is treated by substance
   wd: P2176
+  wd_label: drug used for treatment
 - count: 4565
-  label: has effect
   ro: RO_0002404
+  ro_label: causally downstream of
   wd: P1542
+  wd_label: has effect
 - count: 3183
-  label: coextensive with
   ro: RO_0002379
+  ro_label: spatially coextensive with
   wd: P3403
+  wd_label: coextensive with
 - count: 241
-  label: produced by
   ro: RO_0003001
+  ro_label: produced by
   wd: P2849
+  wd_label: produced by
 - count: 229
-  label: innervated by
   ro: RO_0002005
+  ro_label: innervated_by
   wd: P3189
+  wd_label: innervated by
 - count: 221
-  label: innervates
   ro: RO_0002134
+  ro_label: innervates
   wd: P3190
+  wd_label: innervates
+- count: 81
+  ro: RO_0012002
+  ro_label: has small molecule inhibitor
+  wd: P3776
+  wd_label: inhibitor of
 - count: 55
-  label: develops from
   ro: RO_0002202
+  ro_label: develops from
   wd: P3094
-total: 13167958
+  wd_label: develops from
+- count: 8
+  ro: RO_0012001
+  ro_label: has small molecule activator
+  wd: P3771
+  wd_label: activator of
+total: 13168563
