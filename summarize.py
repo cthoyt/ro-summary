@@ -16,6 +16,7 @@ DIRECTORY = os.path.join(HERE, 'docs', '_data')
 os.makedirs(DIRECTORY, exist_ok=True)
 TSV_PATH = os.path.join(HERE, 'summary.tsv')
 YML_PATH = os.path.join(DIRECTORY, 'summary.yml')
+SSSOM_PATH = os.path.join(DIRECTORY, 'ro_sssom.tsv')
 
 # URL for the Wikidata SPARQL service
 URL = 'https://query.wikidata.org/bigdata/namespace/wdq/sparql'
@@ -81,6 +82,24 @@ def main():
             },
             file,
         )
+
+    predicate = 'owl:equivalentProperty'
+    license = 'https://creativecommons.org/publicdomain/zero/1.0/'
+    headers = [
+        'subject_id', 'subject_label', 'predicate_id', 'object_id', 'license',
+    ]
+    with open(SSSOM_PATH, 'w') as file:
+        print(*headers, sep='\t', file=file)
+        for wd_property, wd_property_label, ro_id, _triples_count in rows:
+            print(
+                f'wikidata:{wd_property}',
+                wd_property_label,
+                predicate,
+                ro_id.replace('_', ':'),
+                license,
+                sep='\t',
+                file=file,
+            )
 
     print('Total RO annotations', total)
     print(tabulate(rows, headers=header))

@@ -1,26 +1,26 @@
 date: '2021-03-18'
 rows:
-- count: 3760375
+- count: 3760481
   label: part of
   ro: BFO_0000050
   wd: P361
-- count: 3060229
+- count: 3060223
   label: found in taxon
   ro: RO_0002162
   wd: P703
-- count: 2011488
+- count: 2011969
   label: location
   ro: RO_0001025
   wd: P276
-- count: 1686854
+- count: 1686909
   label: has part
   ro: BFO_0000051
   wd: P527
-- count: 976695
+- count: 976697
   label: encoded by
   ro: RO_0002204
   wd: P702
-- count: 973662
+- count: 973664
   label: encodes
   ro: RO_0002205
   wd: P688
@@ -28,11 +28,11 @@ rows:
   label: regulates (molecular biology)
   ro: RO_0002211
   wd: P128
-- count: 318621
+- count: 318628
   label: subject has role
   ro: RO_0000087
   wd: P2868
-- count: 16557
+- count: 16559
   label: immediate cause of
   ro: RO_0002405
   wd: P1536
@@ -44,7 +44,7 @@ rows:
   label: has cause
   ro: RO_0002411
   wd: P828
-- count: 6564
+- count: 6566
   label: drug used for treatment
   ro: RO_0002302
   wd: P2176
@@ -52,7 +52,7 @@ rows:
   label: has effect
   ro: RO_0002404
   wd: P1542
-- count: 3181
+- count: 3183
   label: coextensive with
   ro: RO_0002379
   wd: P3403
@@ -72,4 +72,4 @@ rows:
   label: develops from
   ro: RO_0002202
   wd: P3094
-total: 13167305
+total: 13167958
