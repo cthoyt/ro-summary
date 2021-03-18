@@ -89,9 +89,10 @@ def main():
         )
 
     predicate = 'owl:equivalentProperty'
-    license = 'https://creativecommons.org/publicdomain/zero/1.0/'
+    mapping_license = 'https://creativecommons.org/publicdomain/zero/1.0/'
+    match_type = 'HumanCurated'
     headers = [
-        'subject_id', 'subject_label', 'predicate_id', 'object_id', 'object_label', 'license',
+        'subject_id', 'subject_label', 'predicate_id', 'object_id', 'object_label', 'match_type', 'license',
     ]
     with open(SSSOM_PATH, 'w') as file:
         print(*headers, sep='\t', file=file)
@@ -102,7 +103,8 @@ def main():
                 predicate,
                 ro_id.replace('_', ':'),
                 ro_label,
-                license,
+                match_type,
+                mapping_license,
                 sep='\t',
                 file=file,
             )
