@@ -1,21 +1,21 @@
-date: '2021-03-18'
+date: '2021-03-19'
 rows:
-- count: 3760515
+- count: 3760808
   ro: BFO_0000050
   ro_label: part of
   wd: P361
   wd_label: part of
-- count: 3060225
+- count: 3060415
   ro: RO_0002162
   ro_label: in taxon
   wd: P703
   wd_label: found in taxon
-- count: 2013622
+- count: 2015999
   ro: RO_0001025
   ro_label: located in
   wd: P276
   wd_label: location
-- count: 1686917
+- count: 1687148
   ro: BFO_0000051
   ro_label: has part
   wd: P527
@@ -45,12 +45,12 @@ rows:
   ro_label: immediately causally downstream of
   wd: P1536
   wd_label: immediate cause of
-- count: 13705
+- count: 13713
   ro: RO_0002008
   ro_label: coincident with
   wd: P1382
   wd_label: partially coincident with
-- count: 7535
+- count: 7536
   ro: RO_0002411
   ro_label: causally upstream of
   wd: P828
@@ -100,4 +100,4 @@ rows:
   ro_label: has small molecule activator
   wd: P3771
   wd_label: activator of
-total: 13169748
+total: 13172848
