@@ -1,21 +1,21 @@
-date: '2021-04-18'
+date: '2021-04-19'
 rows:
-- count: 3854720
+- count: 3855168
   ro: BFO_0000050
   ro_label: part of
   wd: P361
   wd_label: part of
-- count: 3061926
+- count: 3061934
   ro: RO_0002162
   ro_label: in taxon
   wd: P703
   wd_label: found in taxon
-- count: 2053924
+- count: 2054413
   ro: RO_0001025
   ro_label: located in
   wd: P276
   wd_label: location
-- count: 1710643
+- count: 1710827
   ro: BFO_0000051
   ro_label: has part
   wd: P527
@@ -35,22 +35,22 @@ rows:
   ro_label: regulates
   wd: P128
   wd_label: regulates (molecular biology)
-- count: 321280
+- count: 321284
   ro: RO_0000087
   ro_label: has role
   wd: P2868
   wd_label: subject has role
-- count: 16610
+- count: 16566
   ro: RO_0002405
   ro_label: immediately causally downstream of
   wd: P1536
   wd_label: immediate cause of
-- count: 13836
+- count: 13843
   ro: RO_0002008
   ro_label: coincident with
   wd: P1382
   wd_label: partially coincident with
-- count: 7681
+- count: 7682
   ro: RO_0002411
   ro_label: causally upstream of
   wd: P828
@@ -75,12 +75,12 @@ rows:
   ro_label: produced by
   wd: P2849
   wd_label: produced by
-- count: 229
+- count: 234
   ro: RO_0002005
   ro_label: innervated_by
   wd: P3189
   wd_label: innervated by
-- count: 221
+- count: 219
   ro: RO_0002134
   ro_label: innervates
   wd: P3190
@@ -90,7 +90,7 @@ rows:
   ro_label: has small molecule inhibitor
   wd: P3776
   wd_label: inhibitor of
-- count: 59
+- count: 75
   ro: RO_0002202
   ro_label: develops from
   wd: P3094
@@ -100,4 +100,4 @@ rows:
   ro_label: has small molecule activator
   wd: P3771
   wd_label: activator of
-total: 13332846
+total: 13333962
