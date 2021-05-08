@@ -2,6 +2,7 @@ subject_id	subject_label	predicate_id	object_id	object_label	match_type	license
 wikidata:P361	part of	owl:equivalentProperty	BFO:0000050	part of	HumanCurated	https://creativecommons.org/publicdomain/zero/1.0/
 wikidata:P703	found in taxon	owl:equivalentProperty	RO:0002162	in taxon	HumanCurated	https://creativecommons.org/publicdomain/zero/1.0/
 wikidata:P276	location	owl:equivalentProperty	RO:0001025	located in	HumanCurated	https://creativecommons.org/publicdomain/zero/1.0/
+wikidata:P527	has part	owl:equivalentProperty	BFO:0000051	has part	HumanCurated	https://creativecommons.org/publicdomain/zero/1.0/
 wikidata:P702	encoded by	owl:equivalentProperty	RO:0002204	gene product of	HumanCurated	https://creativecommons.org/publicdomain/zero/1.0/
 wikidata:P688	encodes	owl:equivalentProperty	RO:0002205	has gene product	HumanCurated	https://creativecommons.org/publicdomain/zero/1.0/
 wikidata:P2868	subject has role	owl:equivalentProperty	RO:0000087	has role	HumanCurated	https://creativecommons.org/publicdomain/zero/1.0/
@@ -18,4 +19,3 @@ wikidata:P3190	innervates	owl:equivalentProperty	RO:0002134	innervates	HumanCura
 wikidata:P3776	inhibitor of	owl:equivalentProperty	RO:0012002	has small molecule inhibitor	HumanCurated	https://creativecommons.org/publicdomain/zero/1.0/
 wikidata:P3094	develops from	owl:equivalentProperty	RO:0002202	develops from	HumanCurated	https://creativecommons.org/publicdomain/zero/1.0/
 wikidata:P3771	activator of	owl:equivalentProperty	RO:0012001	has small molecule activator	HumanCurated	https://creativecommons.org/publicdomain/zero/1.0/
-wikidata:P527	has part	owl:equivalentProperty	BFO:0000051	has part	HumanCurated	https://creativecommons.org/publicdomain/zero/1.0/
