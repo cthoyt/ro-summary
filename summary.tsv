@@ -1,15 +1,15 @@
 wd	wd_label	ro	ro_label	count
-P361	part of	BFO_0000050	part of	3872800
-P703	found in taxon	RO_0002162	in taxon	3062085
-P276	location	RO_0001025	located in	2097715
-P527	has part	BFO_0000051	has part	1723193
-P702	encoded by	RO_0002204	gene product of	976703
+P361	part of	BFO_0000050	part of	3873353
+P703	found in taxon	RO_0002162	in taxon	3062102
+P276	location	RO_0001025	located in	2098433
+P527	has part	BFO_0000051	has part	1723337
+P702	encoded by	RO_0002204	gene product of	976712
 P688	encodes	RO_0002205	has gene product	973693
-P2868	subject has role	RO_0000087	has role	329340
+P2868	subject has role	RO_0000087	has role	329344
 P128	regulates (molecular biology)	RO_0002211	regulates	326081
 P1536	immediate cause of	RO_0002405	immediately causally downstream of	16620
 P1382	partially coincident with	RO_0002008	coincident with	15639
-P828	has cause	RO_0002411	causally upstream of	7790
+P828	has cause	RO_0002411	causally upstream of	7794
 P2176	drug used for treatment	RO_0002302	is treated by substance	6615
 P1542	has effect	RO_0002404	causally downstream of	4673
 P3403	coextensive with	RO_0002379	spatially coextensive with	3339
