@@ -10,7 +10,7 @@ wikidata:P128	regulates (molecular biology)	owl:equivalentProperty	RO:0002211	re
 wikidata:P1536	immediate cause of	owl:equivalentProperty	RO:0002405	immediately causally downstream of	HumanCurated	https://creativecommons.org/publicdomain/zero/1.0/
 wikidata:P1382	partially coincident with	owl:equivalentProperty	RO:0002008	coincident with	HumanCurated	https://creativecommons.org/publicdomain/zero/1.0/
 wikidata:P828	has cause	owl:equivalentProperty	RO:0002411	causally upstream of	HumanCurated	https://creativecommons.org/publicdomain/zero/1.0/
-wikidata:P2176	drug used for treatment	owl:equivalentProperty	RO:0002302	is treated by substance	HumanCurated	https://creativecommons.org/publicdomain/zero/1.0/
+wikidata:P2176	drug or therapy used for treatment	owl:equivalentProperty	RO:0002302	is treated by substance	HumanCurated	https://creativecommons.org/publicdomain/zero/1.0/
 wikidata:P1542	has effect	owl:equivalentProperty	RO:0002404	causally downstream of	HumanCurated	https://creativecommons.org/publicdomain/zero/1.0/
 wikidata:P3403	coextensive with	owl:equivalentProperty	RO:0002379	spatially coextensive with	HumanCurated	https://creativecommons.org/publicdomain/zero/1.0/
 wikidata:P2849	produced by	owl:equivalentProperty	RO:0003001	produced by	HumanCurated	https://creativecommons.org/publicdomain/zero/1.0/
