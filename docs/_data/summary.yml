@@ -1,26 +1,26 @@
-date: '2021-06-09'
+date: '2021-06-10'
 rows:
-- count: 3895325
+- count: 3895569
   ro: BFO_0000050
   ro_label: part of
   wd: P361
   wd_label: part of
-- count: 2973223
+- count: 2973221
   ro: RO_0002162
   ro_label: in taxon
   wd: P703
   wd_label: found in taxon
-- count: 2112053
+- count: 2113457
   ro: RO_0001025
   ro_label: located in
   wd: P276
   wd_label: location
-- count: 1729322
+- count: 1729548
   ro: BFO_0000051
   ro_label: has part
   wd: P527
   wd_label: has part
-- count: 976707
+- count: 976699
   ro: RO_0002204
   ro_label: gene product of
   wd: P702
@@ -30,7 +30,7 @@ rows:
   ro_label: has gene product
   wd: P688
   wd_label: encodes
-- count: 332666
+- count: 332683
   ro: RO_0000087
   ro_label: has role
   wd: P2868
@@ -100,4 +100,4 @@ rows:
   ro_label: has small molecule activator
   wd: P3771
   wd_label: activator of
-total: 13374899
+total: 13376780
