@@ -7,8 +7,8 @@ wikidata:P702	encoded by	owl:equivalentProperty	RO:0002204	gene product of	Human
 wikidata:P688	encodes	owl:equivalentProperty	RO:0002205	has gene product	HumanCurated	https://creativecommons.org/publicdomain/zero/1.0/
 wikidata:P2868	subject has role	owl:equivalentProperty	RO:0000087	has role	HumanCurated	https://creativecommons.org/publicdomain/zero/1.0/
 wikidata:P128	regulates (molecular biology)	owl:equivalentProperty	RO:0002211	regulates	HumanCurated	https://creativecommons.org/publicdomain/zero/1.0/
-wikidata:P1536	immediate cause of	owl:equivalentProperty	RO:0002405	immediately causally downstream of	HumanCurated	https://creativecommons.org/publicdomain/zero/1.0/
 wikidata:P1382	partially coincident with	owl:equivalentProperty	RO:0002008	coincident with	HumanCurated	https://creativecommons.org/publicdomain/zero/1.0/
+wikidata:P1536	immediate cause of	owl:equivalentProperty	RO:0002405	immediately causally downstream of	HumanCurated	https://creativecommons.org/publicdomain/zero/1.0/
 wikidata:P828	has cause	owl:equivalentProperty	RO:0002411	causally upstream of	HumanCurated	https://creativecommons.org/publicdomain/zero/1.0/
 wikidata:P2176	drug or therapy used for treatment	owl:equivalentProperty	RO:0002302	is treated by substance	HumanCurated	https://creativecommons.org/publicdomain/zero/1.0/
 wikidata:P1542	has effect	owl:equivalentProperty	RO:0002404	causally downstream of	HumanCurated	https://creativecommons.org/publicdomain/zero/1.0/
