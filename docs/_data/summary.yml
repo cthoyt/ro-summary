@@ -1,21 +1,21 @@
-date: '2022-02-21'
+date: '2022-02-22'
 rows:
-- count: 4311769
+- count: 4312010
   ro: BFO_0000050
   ro_label: part of
   wd: P361
   wd_label: part of
-- count: 3028538
+- count: 3028529
   ro: RO_0002162
   ro_label: in taxon
   wd: P703
   wd_label: found in taxon
-- count: 2521948
+- count: 2522441
   ro: RO_0001025
   ro_label: located in
   wd: P276
   wd_label: location
-- count: 1890370
+- count: 1890611
   ro: BFO_0000051
   ro_label: has part
   wd: P527
@@ -25,7 +25,7 @@ rows:
   ro_label: gene product of
   wd: P702
   wd_label: encoded by
-- count: 973759
+- count: 973758
   ro: RO_0002205
   ro_label: has gene product
   wd: P688
@@ -50,17 +50,17 @@ rows:
   ro_label: immediately causally downstream of
   wd: P1536
   wd_label: immediate cause of
-- count: 8833
+- count: 8836
   ro: RO_0002411
   ro_label: causally upstream of
   wd: P828
   wd_label: has cause
-- count: 6770
+- count: 6771
   ro: RO_0002302
   ro_label: is treated by substance
   wd: P2176
   wd_label: drug or therapy used for treatment
-- count: 5489
+- count: 5490
   ro: RO_0002404
   ro_label: causally downstream of
   wd: P1542
@@ -70,27 +70,27 @@ rows:
   ro_label: spatially coextensive with
   wd: P3403
   wd_label: coextensive with
+- count: 277
+  ro: RO_0002005
+  ro_label: innervated_by
+  wd: P3189
+  wd_label: innervated by
+- count: 271
+  ro: RO_0002134
+  ro_label: innervates
+  wd: P3190
+  wd_label: innervates
 - count: 270
   ro: RO_0003001
   ro_label: produced by
   wd: P2849
   wd_label: produced by
-- count: 270
-  ro: RO_0002005
-  ro_label: innervated_by
-  wd: P3189
-  wd_label: innervated by
-- count: 260
-  ro: RO_0002134
-  ro_label: innervates
-  wd: P3190
-  wd_label: innervates
 - count: 94
   ro: RO_0012002
   ro_label: has small molecule inhibitor
   wd: P3776
   wd_label: inhibitor of
-- count: 92
+- count: 93
   ro: RO_0002202
   ro_label: develops from
   wd: P3094
@@ -100,4 +100,4 @@ rows:
   ro_label: has small molecule activator
   wd: P3771
   wd_label: activator of
-total: 14441664
+total: 14442653
