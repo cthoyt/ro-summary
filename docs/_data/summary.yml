@@ -1,6 +1,6 @@
-date: '2022-02-26'
+date: '2022-02-27'
 rows:
-- count: 4314170
+- count: 4314337
   ro: BFO_0000050
   ro_label: part of
   wd: P361
@@ -10,12 +10,12 @@ rows:
   ro_label: in taxon
   wd: P703
   wd_label: found in taxon
-- count: 2523523
+- count: 2523705
   ro: RO_0001025
   ro_label: located in
   wd: P276
   wd_label: location
-- count: 1891666
+- count: 1891707
   ro: BFO_0000051
   ro_label: has part
   wd: P527
@@ -25,12 +25,12 @@ rows:
   ro_label: gene product of
   wd: P702
   wd_label: encoded by
-- count: 973758
+- count: 973759
   ro: RO_0002205
   ro_label: has gene product
   wd: P688
   wd_label: encodes
-- count: 352329
+- count: 352332
   ro: RO_0000087
   ro_label: has role
   wd: P2868
@@ -40,7 +40,7 @@ rows:
   ro_label: regulates
   wd: P128
   wd_label: regulates (molecular biology)
-- count: 17438
+- count: 17451
   ro: RO_0002008
   ro_label: coincident with
   wd: P1382
@@ -50,7 +50,7 @@ rows:
   ro_label: immediately causally downstream of
   wd: P1536
   wd_label: immediate cause of
-- count: 8859
+- count: 8861
   ro: RO_0002411
   ro_label: causally upstream of
   wd: P828
@@ -70,7 +70,7 @@ rows:
   ro_label: spatially coextensive with
   wd: P3403
   wd_label: coextensive with
-- count: 282
+- count: 284
   ro: RO_0002005
   ro_label: innervated_by
   wd: P3189
@@ -100,4 +100,4 @@ rows:
   ro_label: has small molecule activator
   wd: P3771
   wd_label: activator of
-total: 14456037
+total: 14456448
