@@ -1,21 +1,21 @@
 wd	wd_label	ro	ro_label	count
-P361	part of	BFO_0000050	part of	4367306
-P703	found in taxon	RO_0002162	in taxon	2853791
-P276	location	RO_0001025	located in	2558472
-P527	has part or parts	BFO_0000051	has part	1927542
+P361	part of	BFO_0000050	part of	4369889
+P703	found in taxon	RO_0002162	in taxon	2853812
+P276	location	RO_0001025	located in	2559656
+P527	has part or parts	BFO_0000051	has part	1927699
 P702	encoded by	RO_0002204	gene product of	976835
 P688	encodes	RO_0002205	has gene product	973793
-P2868	subject has role	RO_0000087	has role	353382
+P2868	subject has role	RO_0000087	has role	353381
 P128	regulates (molecular biology)	RO_0002211	regulates	326035
 P1536	immediate cause of	RO_0002405	immediately causally downstream of	18706
-P1382	partially coincident with	RO_0002008	coincident with	17631
-P828	has cause	RO_0002411	causally upstream of	9225
+P1382	partially coincident with	RO_0002008	coincident with	17635
+P828	has cause	RO_0002411	causally upstream of	9227
 P2176	drug or therapy used for treatment	RO_0002302	is treated by substance	6776
-P1542	has effect	RO_0002404	causally downstream of	5666
-P3403	coextensive with	RO_0002379	spatially coextensive with	4078
+P1542	has effect	RO_0002404	causally downstream of	5674
+P3403	coextensive with	RO_0002379	spatially coextensive with	4080
 P3189	innervated by	RO_0002005	innervated_by	293
 P3190	innervates	RO_0002134	innervates	287
 P2849	produced by	RO_0003001	produced by	272
-P3094	develops from	RO_0002202	develops from	110
+P3094	develops from	RO_0002202	develops from	113
 P3776	inhibitor of	RO_0012002	has small molecule inhibitor	94
 P3771	activator of	RO_0012001	has small molecule activator	9
