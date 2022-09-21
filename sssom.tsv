@@ -7,15 +7,23 @@ wikidata:P702	encoded by	owl:equivalentProperty	RO:0002204	gene product of	Human
 wikidata:P688	encodes	owl:equivalentProperty	RO:0002205	has gene product	HumanCurated	https://creativecommons.org/publicdomain/zero/1.0/
 wikidata:P2868	subject has role	owl:equivalentProperty	RO:0000087	has role	HumanCurated	https://creativecommons.org/publicdomain/zero/1.0/
 wikidata:P128	regulates (molecular biology)	owl:equivalentProperty	RO:0002211	regulates	HumanCurated	https://creativecommons.org/publicdomain/zero/1.0/
+wikidata:P2789	connects with	owl:equivalentProperty	RO:0002176	connects	HumanCurated	https://creativecommons.org/publicdomain/zero/1.0/
+wikidata:P1365	replaces	owl:equivalentProperty	RO:0002285	developmentally replaces	HumanCurated	https://creativecommons.org/publicdomain/zero/1.0/
 wikidata:P1382	partially coincident with	owl:equivalentProperty	RO:0002008	coincident with	HumanCurated	https://creativecommons.org/publicdomain/zero/1.0/
 wikidata:P1536	immediate cause of	owl:equivalentProperty	RO:0002405	immediately causally downstream of	HumanCurated	https://creativecommons.org/publicdomain/zero/1.0/
 wikidata:P828	has cause	owl:equivalentProperty	RO:0002411	causally upstream of	HumanCurated	https://creativecommons.org/publicdomain/zero/1.0/
+wikidata:P2975	host	owl:equivalentProperty	RO:0002454	has host	HumanCurated	https://creativecommons.org/publicdomain/zero/1.0/
 wikidata:P2176	drug or therapy used for treatment	owl:equivalentProperty	RO:0002302	is treated by substance	HumanCurated	https://creativecommons.org/publicdomain/zero/1.0/
+wikidata:P2175	medical condition treated	owl:equivalentProperty	RO:0002599	capable of inhibiting or preventing pathological process	HumanCurated	https://creativecommons.org/publicdomain/zero/1.0/
 wikidata:P1542	has effect	owl:equivalentProperty	RO:0002404	causally downstream of	HumanCurated	https://creativecommons.org/publicdomain/zero/1.0/
 wikidata:P3403	coextensive with	owl:equivalentProperty	RO:0002379	spatially coextensive with	HumanCurated	https://creativecommons.org/publicdomain/zero/1.0/
+wikidata:P3780	active ingredient in	owl:equivalentProperty	RO:0002249	active ingredient in	HumanCurated	https://creativecommons.org/publicdomain/zero/1.0/
+wikidata:P2974	habitat	owl:equivalentProperty	RO:0002303	has habitat	HumanCurated	https://creativecommons.org/publicdomain/zero/1.0/
 wikidata:P3189	innervated by	owl:equivalentProperty	RO:0002005	innervated_by	HumanCurated	https://creativecommons.org/publicdomain/zero/1.0/
 wikidata:P3190	innervates	owl:equivalentProperty	RO:0002134	innervates	HumanCurated	https://creativecommons.org/publicdomain/zero/1.0/
 wikidata:P2849	produced by	owl:equivalentProperty	RO:0003001	produced by	HumanCurated	https://creativecommons.org/publicdomain/zero/1.0/
+wikidata:P6532	has phenotype	owl:equivalentProperty	RO:0002200	has phenotype	HumanCurated	https://creativecommons.org/publicdomain/zero/1.0/
 wikidata:P3094	develops from	owl:equivalentProperty	RO:0002202	develops from	HumanCurated	https://creativecommons.org/publicdomain/zero/1.0/
 wikidata:P3776	inhibitor of	owl:equivalentProperty	RO:0012002	has small molecule inhibitor	HumanCurated	https://creativecommons.org/publicdomain/zero/1.0/
+wikidata:P6530	has role in modeling	owl:equivalentProperty	RO:0003301	has role in modeling	HumanCurated	https://creativecommons.org/publicdomain/zero/1.0/
 wikidata:P3771	activator of	owl:equivalentProperty	RO:0012001	has small molecule activator	HumanCurated	https://creativecommons.org/publicdomain/zero/1.0/
