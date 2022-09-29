@@ -1,27 +1,27 @@
 wd	wd_label	ro	ro_label	count
-P361	part of	BFO_0000050	part of	4426155
-P703	found in taxon	RO_0002162	in taxon	2857672
-P276	location	RO_0001025	located in	2654757
-P527	has part(s)	BFO_0000051	has part	1982783
+P361	part of	BFO_0000050	part of	4427596
+P703	found in taxon	RO_0002162	in taxon	2857673
+P276	location	RO_0001025	located in	2654955
+P527	has part(s)	BFO_0000051	has part	1983117
 P702	encoded by	RO_0002204	gene product of	977107
 P688	encodes	RO_0002205	has gene product	974063
-P2868	subject has role	RO_0000087	has role	356610
+P2868	subject has role	RO_0000087	has role	356624
 P128	regulates (molecular biology)	RO_0002211	regulates	326225
-P2789	connects with	RO_0002176	connects	197339
-P1365	replaces	RO_0002285	developmentally replaces	89045
-P1382	partially coincident with	RO_0002008	coincident with	20287
+P2789	connects with	RO_0002176	connects	197366
+P1365	replaces	RO_0002285	developmentally replaces	89057
+P1382	partially coincident with	RO_0002008	coincident with	20345
 P1536	immediate cause of	RO_0002405	immediately causally downstream of	18736
-P828	has cause	RO_0002411	causally upstream of	9809
+P828	has cause	RO_0002411	causally upstream of	9812
 P2975	host	RO_0002454	has host	7467
 P2176	drug or therapy used for treatment	RO_0002302	is treated by substance	6783
 P2175	medical condition treated	RO_0002599	capable of inhibiting or preventing pathological process	6745
-P1542	has effect	RO_0002404	causally downstream of	6047
+P1542	has effect	RO_0002404	causally downstream of	6054
 P3403	coextensive with	RO_0002379	spatially coextensive with	5510
 P3780	active ingredient in	RO_0002249	active ingredient in	2535
 P2974	habitat	RO_0002303	has habitat	1007
 P3189	innervated by	RO_0002005	innervated_by	297
 P3190	innervates	RO_0002134	innervates	289
-P2849	produced by	RO_0003001	produced by	287
+P2849	produced by	RO_0003001	produced by	288
 P6532	has phenotype	RO_0002200	has phenotype	169
 P3094	develops from	RO_0002202	develops from	140
 P3776	inhibitor of	RO_0012002	has small molecule inhibitor	94
