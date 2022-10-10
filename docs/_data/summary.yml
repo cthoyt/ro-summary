@@ -1,36 +1,36 @@
-date: '2022-10-09'
+date: '2022-10-10'
 rows:
-- count: 4432148
+- count: 4432615
   ro: BFO_0000050
   ro_label: part of
   wd: P361
   wd_label: part of
-- count: 2857695
+- count: 2857700
   ro: RO_0002162
   ro_label: in taxon
   wd: P703
   wd_label: found in taxon
-- count: 2657348
+- count: 2657621
   ro: RO_0001025
   ro_label: located in
   wd: P276
   wd_label: location
-- count: 1987016
+- count: 1987318
   ro: BFO_0000051
   ro_label: has part
   wd: P527
   wd_label: has part(s)
-- count: 977107
+- count: 977106
   ro: RO_0002204
   ro_label: gene product of
   wd: P702
   wd_label: encoded by
-- count: 974063
+- count: 974062
   ro: RO_0002205
   ro_label: has gene product
   wd: P688
   wd_label: encodes
-- count: 356848
+- count: 356875
   ro: RO_0000087
   ro_label: has role
   wd: P2868
@@ -40,17 +40,17 @@ rows:
   ro_label: regulates
   wd: P128
   wd_label: regulates (molecular biology)
-- count: 197679
+- count: 197741
   ro: RO_0002176
   ro_label: connects
   wd: P2789
   wd_label: connects with
-- count: 89272
+- count: 89282
   ro: RO_0002285
   ro_label: developmentally replaces
   wd: P1365
   wd_label: replaces
-- count: 21074
+- count: 21136
   ro: RO_0002008
   ro_label: coincident with
   wd: P1382
@@ -60,7 +60,7 @@ rows:
   ro_label: immediately causally downstream of
   wd: P1536
   wd_label: immediate cause of
-- count: 9887
+- count: 9894
   ro: RO_0002411
   ro_label: causally upstream of
   wd: P828
@@ -80,7 +80,7 @@ rows:
   ro_label: capable of inhibiting or preventing pathological process
   wd: P2175
   wd_label: medical condition treated
-- count: 6143
+- count: 6147
   ro: RO_0002404
   ro_label: causally downstream of
   wd: P1542
@@ -95,7 +95,7 @@ rows:
   ro_label: active ingredient in
   wd: P3780
   wd_label: active ingredient in
-- count: 1007
+- count: 1003
   ro: RO_0002303
   ro_label: has habitat
   wd: P2974
@@ -140,4 +140,4 @@ rows:
   ro_label: has small molecule activator
   wd: P3771
   wd_label: activator of
-total: 14942610
+total: 14943823
