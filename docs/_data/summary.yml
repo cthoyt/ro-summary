@@ -1,6 +1,6 @@
-date: '2022-10-30'
+date: '2022-10-31'
 rows:
-- count: 4482779
+- count: 4493228
   ro: BFO_0000050
   ro_label: part of
   wd: P361
@@ -10,12 +10,12 @@ rows:
   ro_label: in taxon
   wd: P703
   wd_label: found in taxon
-- count: 2675247
+- count: 2675735
   ro: RO_0001025
   ro_label: located in
   wd: P276
   wd_label: location
-- count: 2069010
+- count: 2070052
   ro: BFO_0000051
   ro_label: has part
   wd: P527
@@ -30,7 +30,7 @@ rows:
   ro_label: has gene product
   wd: P688
   wd_label: encodes
-- count: 357162
+- count: 357204
   ro: RO_0000087
   ro_label: has role
   wd: P2868
@@ -40,17 +40,17 @@ rows:
   ro_label: regulates
   wd: P128
   wd_label: regulates (molecular biology)
-- count: 198533
+- count: 198566
   ro: RO_0002176
   ro_label: connects
   wd: P2789
   wd_label: connects with
-- count: 89763
+- count: 89772
   ro: RO_0002285
   ro_label: developmentally replaces
   wd: P1365
   wd_label: replaces
-- count: 21692
+- count: 21695
   ro: RO_0002008
   ro_label: coincident with
   wd: P1382
@@ -60,7 +60,7 @@ rows:
   ro_label: immediately causally downstream of
   wd: P1536
   wd_label: immediate cause of
-- count: 10026
+- count: 10033
   ro: RO_0002411
   ro_label: causally upstream of
   wd: P828
@@ -75,17 +75,17 @@ rows:
   ro_label: is treated by substance
   wd: P2176
   wd_label: drug or therapy used for treatment
-- count: 6750
+- count: 6751
   ro: RO_0002599
   ro_label: capable of inhibiting or preventing pathological process
   wd: P2175
   wd_label: medical condition treated
-- count: 6310
+- count: 6321
   ro: RO_0002404
   ro_label: causally downstream of
   wd: P1542
   wd_label: has effect
-- count: 5528
+- count: 5526
   ro: RO_0002379
   ro_label: spatially coextensive with
   wd: P3403
@@ -100,12 +100,12 @@ rows:
   ro_label: has habitat
   wd: P2974
   wd_label: habitat
-- count: 306
+- count: 309
   ro: RO_0002005
   ro_label: innervated_by
   wd: P3189
   wd_label: innervated by
-- count: 297
+- count: 300
   ro: RO_0002134
   ro_label: innervates
   wd: P3190
@@ -140,4 +140,4 @@ rows:
   ro_label: has small molecule activator
   wd: P3771
   wd_label: activator of
-total: 15096649
+total: 15108738
