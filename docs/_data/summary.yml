@@ -1,21 +1,21 @@
-date: '2022-11-11'
+date: '2022-11-12'
 rows:
-- count: 4491556
+- count: 4491737
   ro: BFO_0000050
   ro_label: part of
   wd: P361
   wd_label: part of
-- count: 2858599
+- count: 2858601
   ro: RO_0002162
   ro_label: in taxon
   wd: P703
   wd_label: found in taxon
-- count: 2684364
+- count: 2684550
   ro: RO_0001025
   ro_label: located in
   wd: P276
   wd_label: location
-- count: 2073345
+- count: 2073845
   ro: BFO_0000051
   ro_label: has part
   wd: P527
@@ -30,7 +30,7 @@ rows:
   ro_label: has gene product
   wd: P688
   wd_label: encodes
-- count: 361065
+- count: 361102
   ro: RO_0000087
   ro_label: has role
   wd: P2868
@@ -40,27 +40,27 @@ rows:
   ro_label: regulates
   wd: P128
   wd_label: regulates (molecular biology)
-- count: 198671
+- count: 198717
   ro: RO_0002176
   ro_label: connects
   wd: P2789
   wd_label: connects with
-- count: 90226
+- count: 90258
   ro: RO_0002285
   ro_label: developmentally replaces
   wd: P1365
   wd_label: replaces
-- count: 21994
+- count: 21998
   ro: RO_0002008
   ro_label: coincident with
   wd: P1382
   wd_label: partially coincident with
-- count: 18742
+- count: 18744
   ro: RO_0002405
   ro_label: immediately causally downstream of
   wd: P1536
   wd_label: immediate cause of
-- count: 10067
+- count: 10099
   ro: RO_0002411
   ro_label: causally upstream of
   wd: P828
@@ -80,7 +80,7 @@ rows:
   ro_label: capable of inhibiting or preventing pathological process
   wd: P2175
   wd_label: medical condition treated
-- count: 6362
+- count: 6364
   ro: RO_0002404
   ro_label: causally downstream of
   wd: P1542
@@ -95,7 +95,7 @@ rows:
   ro_label: active ingredient in
   wd: P3780
   wd_label: active ingredient in
-- count: 1019
+- count: 1575
   ro: RO_0002303
   ro_label: has habitat
   wd: P2974
@@ -105,7 +105,7 @@ rows:
   ro_label: innervated_by
   wd: P3189
   wd_label: innervated by
-- count: 302
+- count: 304
   ro: RO_0002134
   ro_label: innervates
   wd: P3190
@@ -140,4 +140,4 @@ rows:
   ro_label: has small molecule activator
   wd: P3771
   wd_label: activator of
-total: 15123847
+total: 15125429
