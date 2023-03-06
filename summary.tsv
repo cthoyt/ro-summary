@@ -1,21 +1,21 @@
 wd	wd_label	ro	ro_label	count
-P361	part of	BFO_0000050	part of	4591513
-P703	found in taxon	RO_0002162	in taxon	2848389
-P276	location	RO_0001025	located in	2847603
-P527	has part(s)	BFO_0000051	has part	2122199
+P361	part of	BFO_0000050	part of	4592503
+P276	location	RO_0001025	located in	2849729
+P703	found in taxon	RO_0002162	in taxon	2848392
+P527	has part(s)	BFO_0000051	has part	2122609
 P702	encoded by	RO_0002204	gene product of	980943
 P688	encodes	RO_0002205	has gene product	977896
-P2868	subject has role	RO_0000087	has role	382304
+P2868	subject has role	RO_0000087	has role	382312
 P128	regulates (molecular biology)	RO_0002211	regulates	326265
-P2789	connects with	RO_0002176	connects	206699
-P1365	replaces	RO_0002285	developmentally replaces	94574
-P1382	partially coincident with	RO_0002008	coincident with	23656
+P2789	connects with	RO_0002176	connects	206787
+P1365	replaces	RO_0002285	developmentally replaces	94594
+P1382	partially coincident with	RO_0002008	coincident with	23667
 P1536	immediate cause of	RO_0002405	immediately causally downstream of	20113
-P828	has cause	RO_0002411	causally upstream of	10591
+P828	has cause	RO_0002411	causally upstream of	10593
 P2975	host	RO_0002454	has host	7524
-P2176	drug or therapy used for treatment	RO_0002302	is treated by substance	6808
-P2175	medical condition treated	RO_0002599	capable of inhibiting or preventing pathological process	6776
-P1542	has effect	RO_0002404	causally downstream of	6658
+P2176	drug or therapy used for treatment	RO_0002302	is treated by substance	6809
+P2175	medical condition treated	RO_0002599	capable of inhibiting or preventing pathological process	6777
+P1542	has effect	RO_0002404	causally downstream of	6659
 P3403	coextensive with	RO_0002379	spatially coextensive with	5601
 P3780	active ingredient in	RO_0002249	active ingredient in	2540
 P2974	habitat	RO_0002303	has habitat	2246
