@@ -13,8 +13,8 @@ wikidata:P1382	partially coincident with	owl:equivalentProperty	RO:0002008	coinc
 wikidata:P1536	immediate cause of	owl:equivalentProperty	RO:0002405	immediately causally downstream of	HumanCurated	https://creativecommons.org/publicdomain/zero/1.0/
 wikidata:P828	has cause	owl:equivalentProperty	RO:0002411	causally upstream of	HumanCurated	https://creativecommons.org/publicdomain/zero/1.0/
 wikidata:P2975	host	owl:equivalentProperty	RO:0002454	has host	HumanCurated	https://creativecommons.org/publicdomain/zero/1.0/
-wikidata:P2176	drug or therapy used for treatment	owl:equivalentProperty	RO:0002302	is treated by substance	HumanCurated	https://creativecommons.org/publicdomain/zero/1.0/
 wikidata:P1542	has effect	owl:equivalentProperty	RO:0002404	causally downstream of	HumanCurated	https://creativecommons.org/publicdomain/zero/1.0/
+wikidata:P2176	drug or therapy used for treatment	owl:equivalentProperty	RO:0002302	is treated by substance	HumanCurated	https://creativecommons.org/publicdomain/zero/1.0/
 wikidata:P2175	medical condition treated	owl:equivalentProperty	RO:0002599	capable of inhibiting or preventing pathological process	HumanCurated	https://creativecommons.org/publicdomain/zero/1.0/
 wikidata:P3403	coextensive with	owl:equivalentProperty	RO:0002379	spatially coextensive with	HumanCurated	https://creativecommons.org/publicdomain/zero/1.0/
 wikidata:P3780	active ingredient in	owl:equivalentProperty	RO:0002249	active ingredient in	HumanCurated	https://creativecommons.org/publicdomain/zero/1.0/
