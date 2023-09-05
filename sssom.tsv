@@ -19,8 +19,8 @@ wikidata:P2175	medical condition treated	owl:equivalentProperty	RO:0002599	capab
 wikidata:P3403	coextensive with	owl:equivalentProperty	RO:0002379	spatially coextensive with	HumanCurated	https://creativecommons.org/publicdomain/zero/1.0/
 wikidata:P3780	active ingredient in	owl:equivalentProperty	RO:0002249	active ingredient in	HumanCurated	https://creativecommons.org/publicdomain/zero/1.0/
 wikidata:P2974	habitat	owl:equivalentProperty	RO:0002303	has habitat	HumanCurated	https://creativecommons.org/publicdomain/zero/1.0/
-wikidata:P3190	innervates	owl:equivalentProperty	RO:0002134	innervates	HumanCurated	https://creativecommons.org/publicdomain/zero/1.0/
 wikidata:P3189	innervated by	owl:equivalentProperty	RO:0002005	innervated_by	HumanCurated	https://creativecommons.org/publicdomain/zero/1.0/
+wikidata:P3190	innervates	owl:equivalentProperty	RO:0002134	innervates	HumanCurated	https://creativecommons.org/publicdomain/zero/1.0/
 wikidata:P2849	produced by	owl:equivalentProperty	RO:0003001	produced by	HumanCurated	https://creativecommons.org/publicdomain/zero/1.0/
 wikidata:P6532	has phenotype	owl:equivalentProperty	RO:0002200	has phenotype	HumanCurated	https://creativecommons.org/publicdomain/zero/1.0/
 wikidata:P3094	develops from	owl:equivalentProperty	RO:0002202	develops from	HumanCurated	https://creativecommons.org/publicdomain/zero/1.0/
