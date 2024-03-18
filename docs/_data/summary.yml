@@ -1,21 +1,21 @@
-date: '2024-03-17'
+date: '2024-03-18'
 rows:
-- count: 4839794
+- count: 4850186
   ro: BFO_0000050
   ro_label: part of
   wd: P361
   wd_label: part of
-- count: 3332098
+- count: 3332325
   ro: RO_0001025
   ro_label: located in
   wd: P276
   wd_label: location
-- count: 2865278
+- count: 2865280
   ro: RO_0002162
   ro_label: in taxon
   wd: P703
   wd_label: found in taxon
-- count: 2274248
+- count: 2274807
   ro: BFO_0000051
   ro_label: has part
   wd: P527
@@ -30,7 +30,7 @@ rows:
   ro_label: has gene product
   wd: P688
   wd_label: encodes
-- count: 396007
+- count: 396011
   ro: RO_0000087
   ro_label: has role
   wd: P2868
@@ -40,12 +40,12 @@ rows:
   ro_label: regulates
   wd: P128
   wd_label: regulates (molecular biology)
-- count: 235729
+- count: 235802
   ro: RO_0002176
   ro_label: connects
   wd: P2789
   wd_label: connects with
-- count: 105424
+- count: 105433
   ro: RO_0002285
   ro_label: developmentally replaces
   wd: P1365
@@ -55,12 +55,12 @@ rows:
   ro_label: coincident with
   wd: P1382
   wd_label: partially coincident with
-- count: 20199
+- count: 20200
   ro: RO_0002405
   ro_label: immediately causally downstream of
   wd: P1536
   wd_label: immediate cause of
-- count: 12497
+- count: 12499
   ro: RO_0002411
   ro_label: causally upstream of
   wd: P828
@@ -70,22 +70,22 @@ rows:
   ro_label: has host
   wd: P2975
   wd_label: host
-- count: 7717
+- count: 7718
   ro: RO_0002404
   ro_label: causally downstream of
   wd: P1542
   wd_label: has effect
-- count: 6842
+- count: 6844
   ro: RO_0002302
   ro_label: is treated by substance
   wd: P2176
   wd_label: drug or therapy used for treatment
-- count: 6822
+- count: 6823
   ro: RO_0002599
   ro_label: capable of inhibiting or preventing pathological process
   wd: P2175
   wd_label: medical condition treated
-- count: 5780
+- count: 5781
   ro: RO_0002379
   ro_label: spatially coextensive with
   wd: P3403
@@ -140,4 +140,4 @@ rows:
   ro_label: has small molecule activator
   wd: P3771
   wd_label: activator of
-total: 16440410
+total: 16451684
