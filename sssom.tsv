@@ -22,8 +22,8 @@ wikidata:P3780	active ingredient in	owl:equivalentProperty	RO:0002249	active ing
 wikidata:P3189	innervated by	owl:equivalentProperty	RO:0002005	innervated_by	HumanCurated	https://creativecommons.org/publicdomain/zero/1.0/
 wikidata:P3190	innervates	owl:equivalentProperty	RO:0002134	innervates	HumanCurated	https://creativecommons.org/publicdomain/zero/1.0/
 wikidata:P2849	produced by	owl:equivalentProperty	RO:0003001	produced by	HumanCurated	https://creativecommons.org/publicdomain/zero/1.0/
-wikidata:P6532	has phenotype	owl:equivalentProperty	RO:0002200	has phenotype	HumanCurated	https://creativecommons.org/publicdomain/zero/1.0/
 wikidata:P3094	develops from	owl:equivalentProperty	RO:0002202	develops from	HumanCurated	https://creativecommons.org/publicdomain/zero/1.0/
+wikidata:P6532	has phenotype	owl:equivalentProperty	RO:0002200	has phenotype	HumanCurated	https://creativecommons.org/publicdomain/zero/1.0/
 wikidata:P3776	inhibitor of	owl:equivalentProperty	RO:0012002	has small molecule inhibitor	HumanCurated	https://creativecommons.org/publicdomain/zero/1.0/
 wikidata:P6530	has role in modeling	owl:equivalentProperty	RO:0003301	has role in modeling	HumanCurated	https://creativecommons.org/publicdomain/zero/1.0/
 wikidata:P3771	activator of	owl:equivalentProperty	RO:0012001	has small molecule activator	HumanCurated	https://creativecommons.org/publicdomain/zero/1.0/
