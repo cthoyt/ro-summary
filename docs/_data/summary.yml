@@ -1,21 +1,21 @@
-date: '2024-07-25'
+date: '2024-07-26'
 rows:
-- count: 4973813
+- count: 4974394
   ro: BFO_0000050
   ro_label: part of
   wd: P361
   wd_label: part of
-- count: 3446583
+- count: 3447106
   ro: RO_0001025
   ro_label: located in
   wd: P276
   wd_label: location
-- count: 2881833
+- count: 2881918
   ro: RO_0002162
   ro_label: in taxon
   wd: P703
   wd_label: found in taxon
-- count: 2347777
+- count: 2347912
   ro: BFO_0000051
   ro_label: has part
   wd: P527
@@ -30,7 +30,7 @@ rows:
   ro_label: has gene product
   wd: P688
   wd_label: encodes
-- count: 397832
+- count: 397868
   ro: RO_0000087
   ro_label: has role
   wd: P2868
@@ -40,17 +40,17 @@ rows:
   ro_label: regulates
   wd: P128
   wd_label: regulates (molecular biology)
-- count: 260645
+- count: 261671
   ro: RO_0002176
   ro_label: connects
   wd: P2789
   wd_label: connects with
-- count: 107816
+- count: 108108
   ro: RO_0002285
   ro_label: developmentally replaces
   wd: P1365
   wd_label: replaces
-- count: 33108
+- count: 33114
   ro: RO_0002008
   ro_label: coincident with
   wd: P1382
@@ -60,27 +60,27 @@ rows:
   ro_label: immediately causally downstream of
   wd: P1536
   wd_label: immediate cause of
-- count: 13553
+- count: 13557
   ro: RO_0002411
   ro_label: causally upstream of
   wd: P828
   wd_label: has cause
-- count: 8484
+- count: 8490
   ro: RO_0002404
   ro_label: causally downstream of
   wd: P1542
   wd_label: has effect
-- count: 7993
+- count: 7994
   ro: RO_0002454
   ro_label: has host
   wd: P2975
   wd_label: host
-- count: 6871
+- count: 6873
   ro: RO_0002302
   ro_label: is treated by substance
   wd: P2176
   wd_label: drug or therapy used for treatment
-- count: 6845
+- count: 6850
   ro: RO_0002599
   ro_label: capable of inhibiting or preventing pathological process
   wd: P2175
@@ -90,26 +90,26 @@ rows:
   ro_label: spatially coextensive with
   wd: P3403
   wd_label: coextensive with
+- count: 3343
+  ro: RO_0012002
+  ro_label: has small molecule inhibitor
+  wd: P3776
+  wd_label: inhibitor of
+- count: 3081
+  ro: RO_0012001
+  ro_label: has small molecule activator
+  wd: P3771
+  wd_label: activator of
 - count: 2866
   ro: RO_0002303
   ro_label: has habitat
   wd: P2974
   wd_label: habitat
-- count: 2712
-  ro: RO_0012002
-  ro_label: has small molecule inhibitor
-  wd: P3776
-  wd_label: inhibitor of
 - count: 2552
   ro: RO_0002249
   ro_label: active ingredient in
   wd: P3780
   wd_label: active ingredient in
-- count: 1980
-  ro: RO_0012001
-  ro_label: has small molecule activator
-  wd: P3771
-  wd_label: activator of
 - count: 383
   ro: RO_0002005
   ro_label: innervated_by
@@ -140,4 +140,4 @@ rows:
   ro_label: has role in modeling
   wd: P6530
   wd_label: has role in modeling
-total: 16815921
+total: 16820355
