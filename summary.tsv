@@ -1,18 +1,18 @@
 wd	wd_label	ro	ro_label	count
-P361	part of	BFO_0000050	part of	4975226
-P276	location	RO_0001025	located in	3447924
-P703	found in taxon	RO_0002162	in taxon	2881916
-P527	has part(s)	BFO_0000051	has part	2348596
+P361	part of	BFO_0000050	part of	4975750
+P276	location	RO_0001025	located in	3448252
+P703	found in taxon	RO_0002162	in taxon	2881918
+P527	has part(s)	BFO_0000051	has part	2349180
 P702	encoded by	RO_0002204	gene product of	981252
 P688	encodes	RO_0002205	has gene product	978204
-P2868	subject has role	RO_0000087	has role	397888
+P2868	subject has role	RO_0000087	has role	397892
 P128	regulates (molecular biology)	RO_0002211	regulates	326265
-P2789	connects with	RO_0002176	connects	262223
-P1365	replaces	RO_0002285	developmentally replaces	108170
-P1382	partially coincident with	RO_0002008	coincident with	33129
+P2789	connects with	RO_0002176	connects	262397
+P1365	replaces	RO_0002285	developmentally replaces	108191
+P1382	partially coincident with	RO_0002008	coincident with	33161
 P1536	immediate cause of	RO_0002405	immediately causally downstream of	20247
-P828	has cause	RO_0002411	causally upstream of	13615
-P1542	has effect	RO_0002404	causally downstream of	8544
+P828	has cause	RO_0002411	causally upstream of	13690
+P1542	has effect	RO_0002404	causally downstream of	8599
 P2975	host	RO_0002454	has host	7995
 P2176	drug or therapy used for treatment	RO_0002302	is treated by substance	6873
 P2175	medical condition treated	RO_0002599	capable of inhibiting or preventing pathological process	6850
@@ -26,4 +26,4 @@ P3190	innervates	RO_0002134	innervates	380
 P2849	produced by	RO_0003001	produced by	340
 P3094	develops from	RO_0002202	develops from	190
 P6532	has phenotype	RO_0002200	has phenotype	169
-P6530	has role in modeling	RO_0003301	has role in modeling	35
+P6530	has role in modeling	RO_0003301	has role in modeling	36
