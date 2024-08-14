@@ -1,36 +1,36 @@
-date: '2024-08-13'
+date: '2024-08-14'
 rows:
-- count: 4982584
+- count: 4982781
   ro: BFO_0000050
   ro_label: part of
   wd: P361
   wd_label: part of
-- count: 3456145
+- count: 3456416
   ro: RO_0001025
   ro_label: located in
   wd: P276
   wd_label: location
-- count: 2881931
+- count: 2881936
   ro: RO_0002162
   ro_label: in taxon
   wd: P703
   wd_label: found in taxon
-- count: 2352880
+- count: 2353392
   ro: BFO_0000051
   ro_label: has part
   wd: P527
   wd_label: has part(s)
-- count: 981261
+- count: 981257
   ro: RO_0002204
   ro_label: gene product of
   wd: P702
   wd_label: encoded by
-- count: 978216
+- count: 978212
   ro: RO_0002205
   ro_label: has gene product
   wd: P688
   wd_label: encodes
-- count: 398001
+- count: 397996
   ro: RO_0000087
   ro_label: has role
   wd: P2868
@@ -40,17 +40,17 @@ rows:
   ro_label: regulates
   wd: P128
   wd_label: regulates (molecular biology)
-- count: 267801
+- count: 267954
   ro: RO_0002176
   ro_label: connects
   wd: P2789
   wd_label: connects with
-- count: 108540
+- count: 108563
   ro: RO_0002285
   ro_label: developmentally replaces
   wd: P1365
   wd_label: replaces
-- count: 33316
+- count: 33339
   ro: RO_0002008
   ro_label: coincident with
   wd: P1382
@@ -60,12 +60,12 @@ rows:
   ro_label: immediately causally downstream of
   wd: P1536
   wd_label: immediate cause of
-- count: 14000
+- count: 14009
   ro: RO_0002411
   ro_label: causally upstream of
   wd: P828
   wd_label: has cause
-- count: 8841
+- count: 8848
   ro: RO_0002404
   ro_label: causally downstream of
   wd: P1542
@@ -75,12 +75,12 @@ rows:
   ro_label: has host
   wd: P2975
   wd_label: host
-- count: 6884
+- count: 6886
   ro: RO_0002302
   ro_label: is treated by substance
   wd: P2176
   wd_label: drug or therapy used for treatment
-- count: 6861
+- count: 6863
   ro: RO_0002599
   ro_label: capable of inhibiting or preventing pathological process
   wd: P2175
@@ -105,7 +105,7 @@ rows:
   ro_label: has habitat
   wd: P2974
   wd_label: habitat
-- count: 2560
+- count: 2562
   ro: RO_0002249
   ro_label: active ingredient in
   wd: P3780
@@ -140,4 +140,4 @@ rows:
   ro_label: has role in modeling
   wd: P6530
   wd_label: has role in modeling
-total: 16850401
+total: 16851594
