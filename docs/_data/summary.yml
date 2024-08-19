@@ -1,21 +1,21 @@
-date: '2024-08-18'
+date: '2024-08-19'
 rows:
-- count: 4988804
+- count: 4989507
   ro: BFO_0000050
   ro_label: part of
   wd: P361
   wd_label: part of
-- count: 3460663
+- count: 3461148
   ro: RO_0001025
   ro_label: located in
   wd: P276
   wd_label: location
-- count: 2881942
+- count: 2881943
   ro: RO_0002162
   ro_label: in taxon
   wd: P703
   wd_label: found in taxon
-- count: 2354394
+- count: 2354621
   ro: BFO_0000051
   ro_label: has part
   wd: P527
@@ -30,27 +30,27 @@ rows:
   ro_label: has gene product
   wd: P688
   wd_label: encodes
-- count: 331139
-  ro: RO_0000087
-  ro_label: has role
-  wd: P2868
-  wd_label: subject has role
 - count: 326265
   ro: RO_0002211
   ro_label: regulates
   wd: P128
   wd_label: regulates (molecular biology)
-- count: 269896
+- count: 294080
+  ro: RO_0000087
+  ro_label: has role
+  wd: P2868
+  wd_label: subject has role
+- count: 270396
   ro: RO_0002176
   ro_label: connects
   wd: P2789
   wd_label: connects with
-- count: 108634
+- count: 108643
   ro: RO_0002285
   ro_label: developmentally replaces
   wd: P1365
   wd_label: replaces
-- count: 33367
+- count: 33376
   ro: RO_0002008
   ro_label: coincident with
   wd: P1382
@@ -60,7 +60,7 @@ rows:
   ro_label: immediately causally downstream of
   wd: P1536
   wd_label: immediate cause of
-- count: 14021
+- count: 14020
   ro: RO_0002411
   ro_label: causally upstream of
   wd: P828
@@ -70,7 +70,7 @@ rows:
   ro_label: causally downstream of
   wd: P1542
   wd_label: has effect
-- count: 8004
+- count: 8006
   ro: RO_0002454
   ro_label: has host
   wd: P2975
@@ -85,7 +85,7 @@ rows:
   ro_label: capable of inhibiting or preventing pathological process
   wd: P2175
   wd_label: medical condition treated
-- count: 5222
+- count: 5230
   ro: RO_0002379
   ro_label: spatially coextensive with
   wd: P3403
@@ -135,9 +135,9 @@ rows:
   ro_label: has phenotype
   wd: P6532
   wd_label: has phenotype
-- count: 36
+- count: 37
   ro: RO_0003301
   ro_label: has role in modeling
   wd: P6530
   wd_label: has role in modeling
-total: 16798110
+total: 16762995
