@@ -1,21 +1,21 @@
-date: '2024-08-28'
+date: '2024-08-29'
 rows:
-- count: 4996455
+- count: 4997489
   ro: BFO_0000050
   ro_label: part of
   wd: P361
   wd_label: part of
-- count: 3465186
+- count: 3466281
   ro: RO_0001025
   ro_label: located in
   wd: P276
   wd_label: location
-- count: 2881964
+- count: 2882317
   ro: RO_0002162
   ro_label: in taxon
   wd: P703
   wd_label: found in taxon
-- count: 2356505
+- count: 2357183
   ro: BFO_0000051
   ro_label: has part
   wd: P527
@@ -35,22 +35,22 @@ rows:
   ro_label: regulates
   wd: P128
   wd_label: regulates (molecular biology)
-- count: 275357
+- count: 275484
   ro: RO_0002176
   ro_label: connects
   wd: P2789
   wd_label: connects with
-- count: 231957
+- count: 231963
   ro: RO_0000087
   ro_label: has role
   wd: P2868
   wd_label: subject has role
-- count: 108789
+- count: 108810
   ro: RO_0002285
   ro_label: developmentally replaces
   wd: P1365
   wd_label: replaces
-- count: 33490
+- count: 33504
   ro: RO_0002008
   ro_label: coincident with
   wd: P1382
@@ -65,12 +65,12 @@ rows:
   ro_label: has host
   wd: P2975
   wd_label: host
-- count: 14048
+- count: 14056
   ro: RO_0002411
   ro_label: causally upstream of
   wd: P828
   wd_label: has cause
-- count: 8878
+- count: 8884
   ro: RO_0002404
   ro_label: causally downstream of
   wd: P1542
@@ -110,7 +110,7 @@ rows:
   ro_label: active ingredient in
   wd: P3780
   wd_label: active ingredient in
-- count: 389
+- count: 390
   ro: RO_0002005
   ro_label: innervated_by
   wd: P3189
@@ -140,4 +140,4 @@ rows:
   ro_label: has role in modeling
   wd: P6530
   wd_label: has role in modeling
-total: 16729935
+total: 16733278
