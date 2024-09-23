@@ -1,11 +1,11 @@
-date: '2024-09-22'
+date: '2024-09-23'
 rows:
-- count: 5005916
+- count: 5006101
   ro: BFO_0000050
   ro_label: part of
   wd: P361
   wd_label: part of
-- count: 3474416
+- count: 3474686
   ro: RO_0001025
   ro_label: located in
   wd: P276
@@ -15,7 +15,7 @@ rows:
   ro_label: in taxon
   wd: P703
   wd_label: found in taxon
-- count: 2363571
+- count: 2363811
   ro: BFO_0000051
   ro_label: has part
   wd: P527
@@ -35,27 +35,27 @@ rows:
   ro_label: regulates
   wd: P128
   wd_label: regulates (molecular biology)
-- count: 278154
+- count: 278231
   ro: RO_0002176
   ro_label: connects
   wd: P2789
   wd_label: connects with
-- count: 231954
+- count: 231953
   ro: RO_0000087
   ro_label: has role
   wd: P2868
   wd_label: subject has role
-- count: 109136
+- count: 109154
   ro: RO_0002285
   ro_label: developmentally replaces
   wd: P1365
   wd_label: replaces
-- count: 69998
+- count: 69999
   ro: RO_0002454
   ro_label: has host
   wd: P2975
   wd_label: host
-- count: 33726
+- count: 33733
   ro: RO_0002008
   ro_label: coincident with
   wd: P1382
@@ -65,7 +65,7 @@ rows:
   ro_label: immediately causally downstream of
   wd: P1536
   wd_label: immediate cause of
-- count: 14149
+- count: 14153
   ro: RO_0002411
   ro_label: causally upstream of
   wd: P828
@@ -100,7 +100,7 @@ rows:
   ro_label: has small molecule activator
   wd: P3771
   wd_label: activator of
-- count: 2882
+- count: 2884
   ro: RO_0002303
   ro_label: has habitat
   wd: P2974
@@ -140,4 +140,4 @@ rows:
   ro_label: has role in modeling
   wd: P6530
   wd_label: has role in modeling
-total: 16811650
+total: 16812453
