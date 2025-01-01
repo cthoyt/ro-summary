@@ -1,31 +1,31 @@
-date: '2024-12-01'
+date: '2025-01-01'
 rows:
-- count: 5084672
+- count: 5102814
   ro: BFO_0000050
   ro_label: part of
   wd: P361
   wd_label: part of
-- count: 3504017
+- count: 3536221
   ro: RO_0001025
   ro_label: located in
   wd: P276
   wd_label: location
-- count: 2883683
+- count: 2883900
   ro: RO_0002162
   ro_label: in taxon
   wd: P703
   wd_label: found in taxon
-- count: 2386144
+- count: 2397673
   ro: BFO_0000051
   ro_label: has part
   wd: P527
-  wd_label: has part(s)
-- count: 981257
+  wd_label: has part
+- count: 981256
   ro: RO_0002204
   ro_label: gene product of
   wd: P702
   wd_label: encoded by
-- count: 978212
+- count: 978210
   ro: RO_0002205
   ro_label: has gene product
   wd: P688
@@ -35,57 +35,57 @@ rows:
   ro_label: regulates
   wd: P128
   wd_label: regulates (molecular biology)
-- count: 298506
+- count: 299452
   ro: RO_0002176
   ro_label: connects
   wd: P2789
   wd_label: connects with
-- count: 232156
+- count: 232338
   ro: RO_0000087
   ro_label: has role
   wd: P2868
   wd_label: subject has role
-- count: 110350
+- count: 111521
   ro: RO_0002285
   ro_label: developmentally replaces
   wd: P1365
   wd_label: replaces
-- count: 70099
+- count: 70124
   ro: RO_0002454
   ro_label: has host
   wd: P2975
   wd_label: host
-- count: 34600
+- count: 35175
   ro: RO_0002008
   ro_label: coincident with
   wd: P1382
   wd_label: partially coincident with
-- count: 20296
+- count: 20301
   ro: RO_0002405
   ro_label: immediately causally downstream of
   wd: P1536
   wd_label: immediate cause of
-- count: 14489
+- count: 14643
   ro: RO_0002411
   ro_label: causally upstream of
   wd: P828
   wd_label: has cause
-- count: 9142
+- count: 9211
   ro: RO_0002404
   ro_label: causally downstream of
   wd: P1542
   wd_label: has effect
-- count: 6900
+- count: 6902
   ro: RO_0002302
   ro_label: is treated by substance
   wd: P2176
   wd_label: drug or therapy used for treatment
-- count: 6883
+- count: 6884
   ro: RO_0002599
   ro_label: capable of inhibiting or preventing pathological process
   wd: P2175
   wd_label: medical condition treated
-- count: 5372
+- count: 5387
   ro: RO_0002379
   ro_label: spatially coextensive with
   wd: P3403
@@ -100,7 +100,7 @@ rows:
   ro_label: has small molecule activator
   wd: P3771
   wd_label: activator of
-- count: 2950
+- count: 2975
   ro: RO_0002303
   ro_label: has habitat
   wd: P2974
@@ -120,7 +120,7 @@ rows:
   ro_label: innervates
   wd: P3190
   wd_label: innervates
-- count: 343
+- count: 344
   ro: RO_0003001
   ro_label: produced by
   wd: P2849
@@ -140,4 +140,4 @@ rows:
   ro_label: has role in modeling
   wd: P6530
   wd_label: has role in modeling
-total: 16966579
+total: 17031839
