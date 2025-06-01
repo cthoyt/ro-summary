@@ -1,21 +1,21 @@
-date: '2025-05-01'
+date: '2025-06-01'
 rows:
-- count: 5159319
+- count: 5158346
   ro: BFO_0000050
   ro_label: part of
   wd: P361
   wd_label: part of
-- count: 4478005
+- count: 4510157
   ro: RO_0001025
   ro_label: located in
   wd: P276
   wd_label: location
-- count: 2886746
+- count: 2887089
   ro: RO_0002162
   ro_label: in taxon
   wd: P703
   wd_label: found in taxon
-- count: 2437769
+- count: 2627860
   ro: BFO_0000051
   ro_label: has part
   wd: P527
@@ -25,7 +25,7 @@ rows:
   ro_label: gene product of
   wd: P702
   wd_label: encoded by
-- count: 978210
+- count: 978211
   ro: RO_0002205
   ro_label: has gene product
   wd: P688
@@ -35,57 +35,57 @@ rows:
   ro_label: regulates
   wd: P128
   wd_label: regulates (molecular biology)
-- count: 309129
+- count: 311993
   ro: RO_0002176
   ro_label: connects
   wd: P2789
   wd_label: connects with
-- count: 230268
+- count: 230292
   ro: RO_0000087
   ro_label: has role
   wd: P2868
   wd_label: subject has role
-- count: 113834
+- count: 113679
   ro: RO_0002285
   ro_label: developmentally replaces
   wd: P1365
   wd_label: replaces
-- count: 70387
+- count: 70390
   ro: RO_0002454
   ro_label: has host
   wd: P2975
   wd_label: host
-- count: 36561
+- count: 36886
   ro: RO_0002008
   ro_label: coincident with
   wd: P1382
   wd_label: partially coincident with
-- count: 20327
+- count: 20328
   ro: RO_0002405
   ro_label: immediately causally downstream of
   wd: P1536
   wd_label: immediate cause of
-- count: 15178
+- count: 15254
   ro: RO_0002411
   ro_label: causally upstream of
   wd: P828
   wd_label: has cause
-- count: 9481
+- count: 9524
   ro: RO_0002404
   ro_label: causally downstream of
   wd: P1542
   wd_label: has effect
-- count: 6920
+- count: 6925
   ro: RO_0002599
   ro_label: capable of inhibiting or preventing pathological process
   wd: P2175
   wd_label: medical condition treated
-- count: 6901
+- count: 6902
   ro: RO_0002302
   ro_label: is treated by substance
   wd: P2176
   wd_label: drug or therapy used for treatment
-- count: 5409
+- count: 5413
   ro: RO_0002379
   ro_label: spatially coextensive with
   wd: P3403
@@ -100,7 +100,7 @@ rows:
   ro_label: has small molecule activator
   wd: P3771
   wd_label: activator of
-- count: 3039
+- count: 3054
   ro: RO_0002303
   ro_label: has habitat
   wd: P2974
@@ -110,7 +110,7 @@ rows:
   ro_label: active ingredient in
   wd: P3780
   wd_label: active ingredient in
-- count: 425
+- count: 428
   ro: RO_0002005
   ro_label: innervated_by
   wd: P3189
@@ -120,12 +120,12 @@ rows:
   ro_label: innervates
   wd: P3190
   wd_label: innervates
-- count: 346
+- count: 349
   ro: RO_0003001
   ro_label: produced by
   wd: P2849
   wd_label: produced by
-- count: 195
+- count: 197
   ro: RO_0002202
   ro_label: develops from
   wd: P3094
@@ -135,9 +135,9 @@ rows:
   ro_label: has phenotype
   wd: P6532
   wd_label: has phenotype
-- count: 38
+- count: 37
   ro: RO_0003301
   ro_label: has role in modeling
   wd: P6530
   wd_label: has role in modeling
-total: 18085668
+total: 18310495
