@@ -18,8 +18,8 @@ wikidata:P2175	medical condition treated	owl:equivalentProperty	RO:0002599	capab
 wikidata:P2176	drug or therapy used for treatment	owl:equivalentProperty	RO:0002302	is treated by substance	HumanCurated	https://creativecommons.org/publicdomain/zero/1.0/
 wikidata:P3403	coextensive with	owl:equivalentProperty	RO:0002379	spatially coextensive with	HumanCurated	https://creativecommons.org/publicdomain/zero/1.0/
 wikidata:P3776	inhibitor of	owl:equivalentProperty	RO:0012002	has small molecule inhibitor	HumanCurated	https://creativecommons.org/publicdomain/zero/1.0/
-wikidata:P3771	activator of	owl:equivalentProperty	RO:0012001	has small molecule activator	HumanCurated	https://creativecommons.org/publicdomain/zero/1.0/
 wikidata:P2974	habitat	owl:equivalentProperty	RO:0002303	has habitat	HumanCurated	https://creativecommons.org/publicdomain/zero/1.0/
+wikidata:P3771	activator of	owl:equivalentProperty	RO:0012001	has small molecule activator	HumanCurated	https://creativecommons.org/publicdomain/zero/1.0/
 wikidata:P3780	active ingredient in	owl:equivalentProperty	RO:0002249	active ingredient in	HumanCurated	https://creativecommons.org/publicdomain/zero/1.0/
 wikidata:P3189	innervated by	owl:equivalentProperty	RO:0002005	innervated_by	HumanCurated	https://creativecommons.org/publicdomain/zero/1.0/
 wikidata:P3190	innervates	owl:equivalentProperty	RO:0002134	innervates	HumanCurated	https://creativecommons.org/publicdomain/zero/1.0/
